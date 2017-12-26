@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TacticalDesignPattern", "TacticalDesignPattern\TacticalDesignPattern.csproj", "{F019767B-2A8D-4936-93C0-ED8078CD1489}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlFlow", "ControlFlow\ControlFlow.csproj", "{490B12E5-1B2A-4C12-B69B-D7D1B6254E0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullReferencesDemo", "NullReferencesDemo\NullReferencesDemo.csproj", "{C0C295F8-5036-4A25-ADC1-E7B9B9388302}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{F019767B-2A8D-4936-93C0-ED8078CD1489}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F019767B-2A8D-4936-93C0-ED8078CD1489}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F019767B-2A8D-4936-93C0-ED8078CD1489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{490B12E5-1B2A-4C12-B69B-D7D1B6254E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490B12E5-1B2A-4C12-B69B-D7D1B6254E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490B12E5-1B2A-4C12-B69B-D7D1B6254E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490B12E5-1B2A-4C12-B69B-D7D1B6254E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0C295F8-5036-4A25-ADC1-E7B9B9388302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C295F8-5036-4A25-ADC1-E7B9B9388302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C295F8-5036-4A25-ADC1-E7B9B9388302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C295F8-5036-4A25-ADC1-E7B9B9388302}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
