@@ -66,9 +66,11 @@
     <Compile Include="Presentation\Implementation\UserInterface.cs" />
     <Compile Include="Presentation\Interfaces\IApplicationServices.cs" />
     <Compile Include="Presentation\Interfaces\ICommand.cs" />
+    <Compile Include="Presentation\Interfaces\IPurchaseReport.cs" />
     <Compile Include="Presentation\Interfaces\IUserInterface.cs" />
     <Compile Include="Presentation\Interfaces\Receipt.cs" />
     <Compile Include="Presentation\Interfaces\StockItem.cs" />
+    <Compile Include="Presentation\PurchaseReports\FailedPurchase.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
